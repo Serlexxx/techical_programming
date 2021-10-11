@@ -1,0 +1,4 @@
+coca_cola 0 0
+pepsi 50 50
+potato 10 500
+jipsi 60 1000
